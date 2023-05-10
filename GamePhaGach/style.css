@@ -1,0 +1,11 @@
+
+#myCanvas {
+    width: 768px;
+    height: 580px;
+    margin: 0 50%;
+    transform: translateX(-50%) translateY(-50%);
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+}
